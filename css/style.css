@@ -1,0 +1,10 @@
+/* Global */
+@import "../css/global/componentes.css";
+
+/* Header */
+@import "../css/header/header.css";
+
+/* Pesquisa */
+@import "../css/pesquisa/pesquisa.css";
+
+@import "../css/pokedex/pokedex.css";

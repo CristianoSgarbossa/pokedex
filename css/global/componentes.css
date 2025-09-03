@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 1200px;
+}
+
+h1,
+h2,
+a,
+p,
+li,
+ul {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1440px;
+  padding-left: 60px;
+  padding-right: 60px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+}
