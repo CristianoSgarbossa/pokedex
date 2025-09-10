@@ -46,3 +46,9 @@
 .pokedex a {
   display: inline-block;
 }
+
+@media (max-width: 800px) {
+  .pokedex h1 {
+    font-size: 48px;
+  }
+}
